@@ -1,1 +1,1 @@
-# ka_2022_2_kirjeldav_statistika
+Siin asuvad Kvantitatiivsete meetodite aluskursuse **teise** nädala praktikumi ettevalmistavad materjalid. Laadige nad tervikuna alla paremal ülal asuva rohelise nupu *Code* alt, valides *Download ZIP* ja pakkige oma arvutis zip-fail lahti. Juhend asub failis `ka_2022_2_kirjeldav_statistika.html`, vajalik andmefail on kaustas `data`.
